@@ -1,0 +1,2 @@
+# ChineseGod
+a first attempt
